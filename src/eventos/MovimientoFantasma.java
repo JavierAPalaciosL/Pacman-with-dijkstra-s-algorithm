@@ -20,7 +20,7 @@ import personajes.Pacman;
 
 /**
  *
- * @author CazaPutas666
+ * @author Javier Alberto Palacios Lopez
  */
 public class MovimientoFantasma {
 

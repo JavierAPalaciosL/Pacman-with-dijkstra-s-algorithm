@@ -18,7 +18,7 @@ import personajes.Pacman;
 
 /**
  *
- * @author cazaputas666
+ * @author Javier Alberto Palacios Lopez
  */
 public class MovimientoPacman implements KeyListener {
 

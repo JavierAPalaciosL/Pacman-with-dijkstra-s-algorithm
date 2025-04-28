@@ -11,7 +11,7 @@ import personajes.Jugador;
 
 /**
  *
- * @author Cazaputas666
+ * @author Javier Alberto Palacios Lopez
  */
 public class Mosaicos extends Jugador{
 

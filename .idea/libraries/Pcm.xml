@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pcm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Pcm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

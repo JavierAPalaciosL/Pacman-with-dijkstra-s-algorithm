@@ -14,7 +14,7 @@ import personajes.Comida;
 
 /**
  *
- * @author Cazaputas666
+ * @author Javier Alberto Palacios Lopez
  */
 public class MapaUno {
 

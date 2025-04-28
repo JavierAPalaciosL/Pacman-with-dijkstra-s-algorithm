@@ -9,7 +9,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author Cazaputas666
+ * @author Javier Alberto Palacios Lopez
  */
 public class FantasmaRojo extends Jugador {
 

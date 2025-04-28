@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Cazaputas666
+ * @author Javier Alberto Palacios Lopez
  */
 public class Pacman extends Jugador {
 

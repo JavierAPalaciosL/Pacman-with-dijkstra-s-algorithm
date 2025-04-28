@@ -20,7 +20,7 @@ import personajes.Pacman;
 
 /**
  *
- * @author Cazaputas666
+ * @author Javier Alberto Palacios López
  */
 public class Lienzo extends JPanel {
 
